@@ -1,6 +1,7 @@
 # Riven Mirror
 
 <p align="center">
+  <a href="https://github.com/alanlo323/riven-mirror/actions/workflows/dev_riven-mirror.yml"><img alt="Azure Deploy" src="https://github.com/alanlo323/riven-mirror/actions/workflows/dev_riven-mirror.yml/badge.svg"></a>
   <a href="https://riven.im"><img alt="Website" src="https://img.shields.io/website/https/riven.im"></a>
   <a href="https://circleci.com/gh/pa001024/riven-mirror/tree/dev"><img src="https://img.shields.io/circleci/project/github/pa001024/riven-mirror/dev.svg" alt="Build Status"></a>
   <br>
